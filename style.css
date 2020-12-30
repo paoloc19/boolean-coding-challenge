@@ -1,0 +1,72 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.container{
+
+    padding-top: 120px;
+    margin-top: 100px;
+    text-align: center;
+    width: 1000px;
+    margin:auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+
+.logo{
+    width: 180px;
+}
+
+
+.titolo{
+    color: limegreen;
+    margin: 2px;
+}
+
+
+nav{
+    background-color: limegreen;
+    padding: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+
+h3{
+    display: inline;
+}
+
+
+.mono{
+    text-align: left;
+    padding: 20px;
+    color: white;
+    margin-left: 50px;
+}
+
+
+#gino{
+    background-color: orange;
+    padding: 10px;
+    margin-right: 600px;
+    border-radius: 5px
+}
+
+
+#mike{
+    background-color: green;
+    padding: 10px;
+    margin-right: 300px;
+    border-radius: 5px
+}
+
+
+
+#fede{
+    background-color: red;
+    padding: 10px;
+    margin-right: 800px;
+    border-radius: 5px
+}
